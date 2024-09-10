@@ -9,12 +9,11 @@
     <managingEditor>me@example.com (John Doe)</managingEditor>
     <webMaster>me@example.com (John Doe)</webMaster>
     <copyright>Cole Boren (CC BY 4.0)</copyright>
-    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dev Origin Story</title>
       <link>http://localhost:1313/blog/origin-story/</link>
-      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
       <guid>http://localhost:1313/blog/origin-story/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;origin-story&#34;&gt;Origin Story&lt;/h2&gt;&#xA;&lt;p&gt;todo&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;where-am-i-now&#34;&gt;Where am I now?&lt;/h2&gt;&#xA;&lt;p&gt;todo&lt;/p&gt;&#xA;&lt;hr&gt;</description>
       <content:encoded><![CDATA[<hr>
