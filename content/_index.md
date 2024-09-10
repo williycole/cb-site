@@ -5,7 +5,7 @@ weight: 1
 ---
 
 ```ascii
-      88                           88                          
+         88                           88                          
          88                           88                          
          88                           88                          
  ,adPPYb,88  ,adPPYba, 8b       d8    88  ,adPPYba,   ,adPPYb,d8  
@@ -29,3 +29,16 @@ Here expect to find insights and discussions on Go, unit testing, quality assura
 
 - [LinkedIn](https://www.linkedin.com/in/cole-boren-4b0b3a50/)
 - [Github](https://github.com/williycole)
+
+## About Me
+
+```json
+{
+  "About Me": {
+    "Me": ["Christian", "Husband"],
+    "Hobbies": ["BJJ", "Lifting", "Skateboarding", "Fly Fishing", "Banjo", "Backpacking", "Gunpla"],
+    "Interests": ["Martial Arts", "Minimalism", "Doing Hard Things", "Anime (mostly Gundam)", "Rpgs/Board Games"],
+    "Tech Interests": ["Go", "Zig", "K.I.S.S.", "Unit Testing", "Performance Optimization", "Observability", "AI", "VR"]
+  }
+}
+```
