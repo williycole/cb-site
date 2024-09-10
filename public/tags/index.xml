@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on CB</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on CB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>me@example.com (John Doe)</managingEditor>
+    <webMaster>me@example.com (John Doe)</webMaster>
+    <copyright>Cole Boren (CC BY 4.0)</copyright>
+    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/tags/privacy/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>http://localhost:1313/tags/privacy/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/tags/shortcodes/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>http://localhost:1313/tags/shortcodes/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+  </channel>
+</rss>

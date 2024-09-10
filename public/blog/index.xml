@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog on CB</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blog on CB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>me@example.com (John Doe)</managingEditor>
+    <webMaster>me@example.com (John Doe)</webMaster>
+    <copyright>Cole Boren (CC BY 4.0)</copyright>
+    <lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dev Origin Story</title>
+      <link>http://localhost:1313/blog/origin-story/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>http://localhost:1313/blog/origin-story/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;origin-story&#34;&gt;Origin Story&lt;/h2&gt;&#xA;&lt;p&gt;todo&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;where-am-i-now&#34;&gt;Where am I now?&lt;/h2&gt;&#xA;&lt;p&gt;todo&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+      <content:encoded><![CDATA[<hr>
+<h2 id="origin-story">Origin Story</h2>
+<p>todo</p>
+<hr>
+<h2 id="where-am-i-now">Where am I now?</h2>
+<p>todo</p>
+<hr>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
