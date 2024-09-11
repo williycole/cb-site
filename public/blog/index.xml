@@ -6,15 +6,15 @@
     <description>Recent content in Blog on CB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <managingEditor>me@example.com (John Doe)</managingEditor>
-    <webMaster>me@example.com (John Doe)</webMaster>
+    <managingEditor>cborendev@gmail.com (Cole Boren)</managingEditor>
+    <webMaster>cborendev@gmail.com (Cole Boren)</webMaster>
     <copyright>Cole Boren (CC BY 4.0)</copyright>
     <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Origin Story</title>
       <link>http://localhost:1313/blog/9-10-24-origin-story/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
       <guid>http://localhost:1313/blog/9-10-24-origin-story/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;from-geology--naval-warfare-maps-to-go-developer&#34;&gt;From Geology &amp;amp; Naval Warfare Maps to Go Developer&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Cole. My programming journey began in late 2019, but my path there was anything but direct. After studying Geology in college and working as a Field Geologist for about a year, I found myself creating maps for naval warfare ships at the US DOD. It was there that I first dipped my toes into bash scripting to automate my workflow, and I was instantly hooked.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<hr>
