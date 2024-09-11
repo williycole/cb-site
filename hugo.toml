@@ -90,3 +90,5 @@ linkedin = 'https://www.linkedin.com/in/cole-boren-4b0b3a50/'
 [params.author]
 name = "Cole Boren"           # Your name as shown in the RSS feed metadata
 email = "cborendev@gmail.com" # Added to the footer so readers can reply to posts
+
+# for comments enable this
