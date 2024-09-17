@@ -56,7 +56,7 @@ As a minimalist at heart, I've always been drawn to simplicity - that's part of 
 
 ## Step 4: Setting Up Kickstart.nvim
 
-1. Before we get started here be sure to checkout my dotfiles incase you want to see the final result or need a reference along the way. Also feel free to fork/clone them. 
+1. Before we get started here be sure to checkout my (dotfiles)[https://github.com/williycole/dotfiles] incase you want to see the final result or need a reference along the way. Also feel free to fork/clone them. 
 2. Back up your existing Neovim configuration:
    ```
    mv ~/.config/nvim ~/.config/nvim.bak
@@ -236,6 +236,6 @@ return { -- Autoformat
 3. Remember any plugin you want to isolate you can do this with, please be sure to follow that plugin's guide/README as best you can to get things work properly. 
 ## Conclusion
 
-Now you should be fully setup to Debug your Go projects with Neovim on WSL! Obviously there still a lot that could be done to further clean up this setup/debug experiance, if you looked at or used my dotfiles you might have even noticed plenty of todos as I will likely itterate on this in the future and make another post as I learn/cleanup my neovim setup. 
+Now you should be fully setup to Debug your Go projects with Neovim on WSL! Obviously there still a lot that could be done to further clean up this setup/debug experiance, if you looked at or used my (dotfiles)[https://github.com/williycole/dotfiles] you might have even noticed plenty of todos as I will likely itterate on this in the future and make another post as I learn/cleanup my neovim setup. 
 
 If you have any questions or trouble feel free to leave a comment. I really hope this was helpful to someone, and I appreciate you if you made it this far and are reading this!
