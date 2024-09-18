@@ -224,7 +224,7 @@ return {
 ## 6. Final Configuration
 
 1. Open Neovim: `nvim` and Run `:checkhealth` to ensure everything is set up correctly.
-2. Optional tease apart the main `init.lua` file, ie. `nvim\init.lua`.
+2. Optional: Tease apart the main `init.lua` file, ie. `nvim\init.lua`.
 
 - To do this find different sections of code you would like to pull out of the main file. For example see steps and lua snippet below of the auto format configuration that comes with kickstart.
 - **But before you do this be sure to uncomment  `-- { import = 'custom.plugins' },`** in `nvim\init.lua`, this will allow you to tease apart this main init.lua and place the things you tease apart in `nvim\custom\plugin\auto-format.lua`
