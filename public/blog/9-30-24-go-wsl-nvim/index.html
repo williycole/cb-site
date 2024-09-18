@@ -1,23 +1,115 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>CB</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on CB</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <managingEditor>cborendev@gmail.com (Cole Boren)</managingEditor>
-    <webMaster>cborendev@gmail.com (Cole Boren)</webMaster>
-    <copyright>Cole Boren (CC BY 4.0)</copyright>
-    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Setting up, Running, and Debugging Go Applications with Neovim on WSL</title>
-      <link>http://localhost:1313/blog/9-30-24-go-wsl-nvim/</link>
-      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
-      <guid>http://localhost:1313/blog/9-30-24-go-wsl-nvim/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;As a minimalist at heart, I&amp;rsquo;ve always been drawn to simplicity - that&amp;rsquo;s part of what attracted me to Go. Years of skateboarding and wrist injuries, combined with my ADHD-induced tendency to get distracted by complex IDEs, led me to explore Vim motions and Neovim. While my ultimate goal is to run ArchLinux, blast some breakcore, and hack away on Neovim like a true power user, I&amp;rsquo;m not quite there yet. As a Windows user, I wanted to find a middle ground - a way to use Neovim and Go without completely abandoning my current setup. Enter WSL (Windows Subsystem for Linux). This guide is my first attempt at setting up a development environment that combines the best of both worlds: Neovim and Go on WSL, with the added ability to debug and step through code. Fair warning: this is just the beginning. Expect more blogs as I continue to refine and expand my Neovim setup. For now, let&amp;rsquo;s dive into setting up WSL, Go, and the Debug Adapter Protocol (DAP) with Kickstart.nvim. We&amp;rsquo;ll cover everything from WSL installation to configuring Neovim for Go development and debugging.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<hr>
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="http://localhost:1313/images/favicon.png" />
+<title>Setting up, Running, and Debugging Go Applications with Neovim on WSL | CB</title>
+<meta name="title" content="Setting up, Running, and Debugging Go Applications with Neovim on WSL" />
+<meta name="description" content="A first pass at my approach to setting up Neovim on WSL with support for Go, debugging, stepping through code, and streamlining my nvim setup process as a windows user." />
+<meta name="author" content="Cole Boren" />
+<meta name="keywords" content="neovim,configuration,go,wsl,debugging," />
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:title" content="Setting up, Running, and Debugging Go Applications with Neovim on WSL" />
+<meta property="og:description" content="A first pass at my approach to setting up Neovim on WSL with support for Go, debugging, stepping through code, and streamlining my nvim setup process as a windows user." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/blog/9-30-24-go-wsl-nvim/" />
+
+<meta property="og:image" content="http://localhost:1313/images/social_card_bg_hu5620680302953961978.webp"/><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2024-09-18T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-09-18T00:00:00+00:00" /><meta property="og:site_name" content="Cole&#39;s Dev Log" />
+
+
+
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="http://localhost:1313/images/social_card_bg_hu5620680302953961978.webp"/>
+<meta name="twitter:title" content="Setting up, Running, and Debugging Go Applications with Neovim on WSL"/>
+<meta name="twitter:description" content="A first pass at my approach to setting up Neovim on WSL with support for Go, debugging, stepping through code, and streamlining my nvim setup process as a windows user."/>
+
+
+
+<meta itemprop="name" content="Setting up, Running, and Debugging Go Applications with Neovim on WSL">
+<meta itemprop="description" content="A first pass at my approach to setting up Neovim on WSL with support for Go, debugging, stepping through code, and streamlining my nvim setup process as a windows user."><meta itemprop="datePublished" content="2024-09-18T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2024-09-18T00:00:00+00:00" />
+<meta itemprop="wordCount" content="1569">
+
+<meta itemprop="image" content="http://localhost:1313/images/social_card_bg_hu5620680302953961978.webp"/>
+
+
+<meta itemprop="keywords" content="neovim,configuration,go,wsl,debugging," />
+
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  
+  <link href="/original.min.css" rel="stylesheet">
+
+  
+    
+    <link href="/syntax.min.css" rel="stylesheet">
+  
+
+  
+
+  
+</head>
+
+<body>
+  <header><a class="skip-link" href="#main-content">Skip to main content</a>
+
+<a href="/" class="title"><h1>CB</h1></a>
+<nav>
+  <a href="/">Home</a>
+
+  <a href="/blog/">Blog</a>
+
+<a href='http://localhost:1313/index.xml'>RSS</a>
+
+
+
+
+
+
+
+</nav>
+</header>
+  <main id="main-content"> 
+<h1>Setting up, Running, and Debugging Go Applications with Neovim on WSL</h1>
+<p class="byline">
+  <time datetime='2024-09-18' pubdate>
+    2024-09-18
+  </time>
+  · Cole Boren
+</p>
+
+<content> <hr>
 <h2 id="introduction">Introduction</h2>
 <p>As a minimalist at heart, I&rsquo;ve always been drawn to simplicity - that&rsquo;s part of what attracted me to Go. Years of skateboarding and wrist injuries, combined with my ADHD-induced tendency to get distracted by complex IDEs, led me to explore Vim motions and Neovim. While my ultimate goal is to run ArchLinux, blast some breakcore, and hack away on Neovim like a true power user, I&rsquo;m not quite there yet. As a Windows user, I wanted to find a middle ground - a way to use Neovim and Go without completely abandoning my current setup. Enter WSL (Windows Subsystem for Linux). This guide is my first attempt at setting up a development environment that combines the best of both worlds: Neovim and Go on WSL, with the added ability to debug and step through code. Fair warning: this is just the beginning. Expect more blogs as I continue to refine and expand my Neovim setup. For now, let&rsquo;s dive into setting up WSL, Go, and the Debug Adapter Protocol (DAP) with Kickstart.nvim. We&rsquo;ll cover everything from WSL installation to configuring Neovim for Go development and debugging.</p>
 <h2 id="step-1-installing-wsl">Step 1: Installing WSL</h2>
@@ -359,23 +451,45 @@ This process also provides valuable Neovim editing practice:
 <h2 id="conclusion">Conclusion</h2>
 <p>Now you should be fully setup to Debug your Go projects with Neovim on WSL! Obviously there still a lot that could be done to further clean up this setup/debug experience, if you looked at or used my <a href="https://github.com/williycole/dotfiles">dotfiles</a> you might have even noticed plenty of todos as I will likely iterate on this in the future and make another post as I learn/cleanup my neovim setup.</p>
 <p>If you have any questions or trouble feel free to leave a comment. I really hope this was helpful to someone, and I appreciate you if you made it this far and are reading this!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>My Origin Story</title>
-      <link>http://localhost:1313/blog/9-10-24-origin-story/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
-      <guid>http://localhost:1313/blog/9-10-24-origin-story/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;from-geology--naval-warfare-maps-to-go-developer&#34;&gt;From Geology &amp;amp; Naval Warfare Maps to Go Developer&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Cole. My programming journey began in late 2019, but my path there was anything but direct. After studying Geology in college and working as a Field Geologist for about a year, I found myself creating maps for naval warfare ships at the US DOD. It was there that I first dipped my toes into bash scripting to automate my workflow, and I was instantly hooked.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<hr>
-<h2 id="from-geology--naval-warfare-maps-to-go-developer">From Geology &amp; Naval Warfare Maps to Go Developer</h2>
-<p>Hi, I&rsquo;m Cole. My programming journey began in late 2019, but my path there was anything but direct. After studying Geology in college and working as a Field Geologist for about a year, I found myself creating maps for naval warfare ships at the US DOD. It was there that I first dipped my toes into bash scripting to automate my workflow, and I was instantly hooked.</p>
-<p>When 2020 rolled around, like many others with extra time on their hands, I dove deeper into programming. What fascinated me most was the democratization of the field - anyone willing to put in the time and effort could become a programmer, regardless of their background. This realization was particularly exciting for someone like me, coming from a non-traditional tech background. I started with basic C programming, creating simple programs like &ldquo;Hello World&rdquo; and a basic calculator. Initially, I thought I wanted to be a &lsquo;frontend developer&rsquo;, so I also dabbled in HTML and CSS. Little did I know that this curiosity would lead me on a path of learning Javascript, React, .Net/C#, SQL, Java/Springboot, TypeScript, Python, Go and a bit more.</p>
-<p>A turning point came when I read an article about a former geologist who transitioned into programming. I reached out to him (thanks, Adam!) and our chat about geology, programming, and the tech lifestyle convinced me to take the plunge. I quit my job and committed to becoming a work-from-home dev. The challenge of programming, the flexibility of remote work, and the potential earnings were too tempting to resist. I moved back home and enrolled in a course with <a href="https://www.tech901.org/">Tech901</a>, where I learned the basics of HTML, CSS, and JavaScript. Shortly after, <a href="https://cooksys.com/">Cook Systems</a> reached out and put me through an intensive bootcamp focused on Java and Spring Boot. I&rsquo;m super grateful to both of these organizations as they paved the way for the path I&rsquo;m on today. After going through Cook&rsquo;s fast paced bootcamp, almost immediately, I landed a job as a Backend Developer (not frontend, ironically) at FedEx through Cook. Despite feeling underprepared as do most early career devs, I embraced the challenge and learned rapidly. After a year, I felt I had truly cut my teeth in programming professionally, then my career took another turn.</p>
-<p>A company called Green Mountain (formerly Green Mountain Technology) &lsquo;GM&rsquo; contacted me about a frontend position. Although I ended up in a backend role with C#/.NET on team Honey Badgers (a whole blog post of its self, super talented devs), my time at GM was transformative. I learned about software engineering, unit testing, performance optimization, SQL, Kafka, APIs, architecture, code reviews, mentoring/how to mentor others, and project ownership. The experience and mentorship I received at GM were invaluable, its what helped my find my love for backend programming. However, like many tech companies in 2022-2023, GM faced layoffs. After about two years with GM, I decided it was time to spread my wings further. This led me to Hone Health, a fast-paced telehealth startup where I&rsquo;ve been for about a year. At Hone, I&rsquo;ve worn many hats - from helpdesk to bug hunting, infrastructure work to feature development, you name it and I&rsquo;ve done it. As I write this, I&rsquo;m transitioning to a new role as a Go developer - an exciting new chapter in my career. This journey thus far has been filled with challenges, growth, and unexpected turns. I&rsquo;m looking forward to sharing more about my ongoing learning and experiences in future blog posts. Expect lots of post about Go.</p>
-<p>~ Stay tuned as I continue to document my adventures in software development, and hopefully improve my writing along the way! 😆</p>
-<hr>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+ </content>
+<p>
+  
+  <a class="blog-tags" href="/tags/neovim/">#neovim</a>
+  
+  <a class="blog-tags" href="/tags/configuration/">#configuration</a>
+  
+  <a class="blog-tags" href="/tags/go/">#go</a>
+  
+  <a class="blog-tags" href="/tags/wsl/">#wsl</a>
+  
+  <a class="blog-tags" href="/tags/debugging/">#debugging</a>
+  
+</p>
+ 
+<p>
+  <a
+    href='mailto:cborendev@gmail.com?subject=Reply%20to%20"Setting%20up%2c%20Running%2c%20and%20Debugging%20Go%20Applications%20with%20Neovim%20on%20WSL"'
+  >
+    Reply to this post by email ↪
+  </a>
+</p>
+  <div class="utterances"></div>
+  
+  <script src="https://utteranc.es/client.js"
+          repo="williycole/cb-site"
+          issue-term="pathname"
+          theme="github-dark-orange"
+          crossorigin="anonymous"
+          async>
+  </script>
+  
+</div> 
+  </main>
+  <footer><small>
+  Cole Boren (CC BY 4.0) | Made with <a href="https://github.com/clente/hugo-bearcub">Bear Cub</a>
+</small></footer>
+
+    
+</body>
+
+</html>

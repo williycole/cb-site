@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CB</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on CB</description>
+    <title>Go on CB</title>
+    <link>http://localhost:1313/tags/go/</link>
+    <description>Recent content in Go on CB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>cborendev@gmail.com (Cole Boren)</managingEditor>
     <webMaster>cborendev@gmail.com (Cole Boren)</webMaster>
     <copyright>Cole Boren (CC BY 4.0)</copyright>
     <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Setting up, Running, and Debugging Go Applications with Neovim on WSL</title>
+      <title>Setting up, Running and Debugging Go Applications with Neovim on WSL</title>
       <link>http://localhost:1313/blog/9-30-24-go-wsl-nvim/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
       <guid>http://localhost:1313/blog/9-30-24-go-wsl-nvim/</guid>
@@ -267,7 +267,7 @@
 </ol>
 <ul>
 <li>To do this find different sections of code you would like to pull out of the main file. For example see steps and lua snippet below of the auto format configuration that comes with kickstart.</li>
-<li><strong>But before you do this be sure to uncomment  <code>-- { import = 'custom.plugins' },</code></strong> in <code>nvim\init.lua</code>, this will allow you to tease apart this main init.lua and place the things you tease apart in <code>nvim\custom\plugin\auto-format.lua</code></li>
+<li>**But before you do this be sure to uncomment  <code>-- { import = 'custom.plugins' }**,</code> in <code>nvim\init.lua</code>, this will allow you to tease apart this main init.lua and place the things you tease apart in <code>nvim\custom\plugin\auto-format.lua</code></li>
 </ul>
 
 
@@ -319,7 +319,7 @@
 </span></span><span class="line"><span class="ln">43</span><span class="cl">      <span class="c1">-- You can use &#39;stop_after_first&#39; to run the first available formatter from the list</span>
 </span></span><span class="line"><span class="ln">44</span><span class="cl">      <span class="c1">-- javascript = { &#34;prettierd&#34;, &#34;prettier&#34;, stop_after_first = true },</span>
 </span></span><span class="line"><span class="ln">45</span><span class="cl">
-</span></span><span class="line"><span class="ln">46</span><span class="cl">      <span class="n">go</span> <span class="o">=</span> <span class="p">{</span> <span class="s1">&#39;go/fmt&#39;</span> <span class="p">},</span> <span class="c1">-- NOTE: this isn&#39;t default, I added this for go formatting, the rest in this example is default</span>
+</span></span><span class="line"><span class="ln">46</span><span class="cl">      <span class="n">go</span> <span class="o">=</span> <span class="p">{</span> <span class="s1">&#39;go/fmt&#39;</span> <span class="p">},</span> <span class="c1">-- NOTE: this isn&#39;t default, I added this for go formatting, the rest in this example is default </span>
 </span></span><span class="line"><span class="ln">47</span><span class="cl">    <span class="p">},</span>
 </span></span><span class="line"><span class="ln">48</span><span class="cl">  <span class="p">},</span>
 </span></span><span class="line"><span class="ln">49</span><span class="cl"><span class="p">}</span></span></span></code></pre></div><ul>
@@ -359,22 +359,6 @@ This process also provides valuable Neovim editing practice:
 <h2 id="conclusion">Conclusion</h2>
 <p>Now you should be fully setup to Debug your Go projects with Neovim on WSL! Obviously there still a lot that could be done to further clean up this setup/debug experience, if you looked at or used my <a href="https://github.com/williycole/dotfiles">dotfiles</a> you might have even noticed plenty of todos as I will likely iterate on this in the future and make another post as I learn/cleanup my neovim setup.</p>
 <p>If you have any questions or trouble feel free to leave a comment. I really hope this was helpful to someone, and I appreciate you if you made it this far and are reading this!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>My Origin Story</title>
-      <link>http://localhost:1313/blog/9-10-24-origin-story/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
-      <guid>http://localhost:1313/blog/9-10-24-origin-story/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;from-geology--naval-warfare-maps-to-go-developer&#34;&gt;From Geology &amp;amp; Naval Warfare Maps to Go Developer&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Cole. My programming journey began in late 2019, but my path there was anything but direct. After studying Geology in college and working as a Field Geologist for about a year, I found myself creating maps for naval warfare ships at the US DOD. It was there that I first dipped my toes into bash scripting to automate my workflow, and I was instantly hooked.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<hr>
-<h2 id="from-geology--naval-warfare-maps-to-go-developer">From Geology &amp; Naval Warfare Maps to Go Developer</h2>
-<p>Hi, I&rsquo;m Cole. My programming journey began in late 2019, but my path there was anything but direct. After studying Geology in college and working as a Field Geologist for about a year, I found myself creating maps for naval warfare ships at the US DOD. It was there that I first dipped my toes into bash scripting to automate my workflow, and I was instantly hooked.</p>
-<p>When 2020 rolled around, like many others with extra time on their hands, I dove deeper into programming. What fascinated me most was the democratization of the field - anyone willing to put in the time and effort could become a programmer, regardless of their background. This realization was particularly exciting for someone like me, coming from a non-traditional tech background. I started with basic C programming, creating simple programs like &ldquo;Hello World&rdquo; and a basic calculator. Initially, I thought I wanted to be a &lsquo;frontend developer&rsquo;, so I also dabbled in HTML and CSS. Little did I know that this curiosity would lead me on a path of learning Javascript, React, .Net/C#, SQL, Java/Springboot, TypeScript, Python, Go and a bit more.</p>
-<p>A turning point came when I read an article about a former geologist who transitioned into programming. I reached out to him (thanks, Adam!) and our chat about geology, programming, and the tech lifestyle convinced me to take the plunge. I quit my job and committed to becoming a work-from-home dev. The challenge of programming, the flexibility of remote work, and the potential earnings were too tempting to resist. I moved back home and enrolled in a course with <a href="https://www.tech901.org/">Tech901</a>, where I learned the basics of HTML, CSS, and JavaScript. Shortly after, <a href="https://cooksys.com/">Cook Systems</a> reached out and put me through an intensive bootcamp focused on Java and Spring Boot. I&rsquo;m super grateful to both of these organizations as they paved the way for the path I&rsquo;m on today. After going through Cook&rsquo;s fast paced bootcamp, almost immediately, I landed a job as a Backend Developer (not frontend, ironically) at FedEx through Cook. Despite feeling underprepared as do most early career devs, I embraced the challenge and learned rapidly. After a year, I felt I had truly cut my teeth in programming professionally, then my career took another turn.</p>
-<p>A company called Green Mountain (formerly Green Mountain Technology) &lsquo;GM&rsquo; contacted me about a frontend position. Although I ended up in a backend role with C#/.NET on team Honey Badgers (a whole blog post of its self, super talented devs), my time at GM was transformative. I learned about software engineering, unit testing, performance optimization, SQL, Kafka, APIs, architecture, code reviews, mentoring/how to mentor others, and project ownership. The experience and mentorship I received at GM were invaluable, its what helped my find my love for backend programming. However, like many tech companies in 2022-2023, GM faced layoffs. After about two years with GM, I decided it was time to spread my wings further. This led me to Hone Health, a fast-paced telehealth startup where I&rsquo;ve been for about a year. At Hone, I&rsquo;ve worn many hats - from helpdesk to bug hunting, infrastructure work to feature development, you name it and I&rsquo;ve done it. As I write this, I&rsquo;m transitioning to a new role as a Go developer - an exciting new chapter in my career. This journey thus far has been filled with challenges, growth, and unexpected turns. I&rsquo;m looking forward to sharing more about my ongoing learning and experiences in future blog posts. Expect lots of post about Go.</p>
-<p>~ Stay tuned as I continue to document my adventures in software development, and hopefully improve my writing along the way! 😆</p>
-<hr>
 ]]></content:encoded>
     </item>
   </channel>
