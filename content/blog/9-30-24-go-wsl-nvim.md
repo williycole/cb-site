@@ -88,8 +88,19 @@ As a minimalist at heart, I've always been drawn to simplicity - that's part of 
    ```shell
    sudo mv nvim.appimage /usr/local/bin/nvim
    ```
+4. You may also need to Install libfuse2
+   ```shell
+   sudo apt-get update
+   sudo apt-get install -y libfuse2
+   ```
+   or if you're using Ubuntu 24.04 or a newer version
 
-## Step 4: Setting Up Kickstart.nvim
+   ```shell
+   sudo apt-get install -y libfuse2t64
+   ```
+
+
+## Step 5: Setting Up Kickstart.nvim
 
 1. Before we get started here,  be sure to checkout my [dotfiles](https://github.com/williycole/dotfiles) in case you want to see the final result or need a reference along the way. Also feel free to fork/clone them.
 2. Back up your existing Neovim configuration:
@@ -104,7 +115,7 @@ As a minimalist at heart, I've always been drawn to simplicity - that's part of 
    git clone https://github.com/nvim-lua/kickstart.nvim.git ~/.config/nvim
    ```
 
-## 5. Configuring Go Development and DAP
+## 6. Configuring Go Development and DAP
 
 1. Installing Delve Debugger (moved up):
 
@@ -221,7 +232,7 @@ return {
 
 ```
 
-## 6. Final Configuration
+## 7. Final Configuration
 
 1. Open Neovim: `nvim` and Run `:checkhealth` to ensure everything is set up correctly.
 2. Optional: Tease apart the main `init.lua` file, ie. `nvim\init.lua`.
