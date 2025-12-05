@@ -14,10 +14,11 @@
   {{ $style := print (default "original" .Site.Params.themeStyle) ".css" | resources.Get | minify }}
   <link href="{{ $style.RelPermalink }}" rel="stylesheet">
 
-  {{ if (.Page.Store.Get "hasCodeBlock") }}
-    {{ $syntax := resources.Get "syntax.css" | minify }}
-    <link href="{{ $syntax.RelPermalink }}" rel="stylesheet">
-  {{ end }}
+    <!-- TODO: Better Hilighting when I do that -->
+  <!-- {{ if (.Page.Store.Get "hasCodeBlock") }} 
+     {{ $syntax := resources.Get "syntax.css" | minify }} 
+  <link href="{{ $syntax.RelPermalink }}" rel="stylesheet"> 
+  {{ end }} -->
 
   {{ with .Params.style }}
     {{ $extra := resources.Get . | minify }}

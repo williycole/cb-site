@@ -116,11 +116,26 @@
 
 
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="ln">1</span><span class="cl">sudo mv nvim.appimage /usr/local/bin/nvim</span></span></code></pre></div></li>
+<li>
+<p>You may also need to Install libfuse2</p>
+
+
+
+
+
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="ln">1</span><span class="cl">sudo apt-get update
+</span></span><span class="line"><span class="ln">2</span><span class="cl">sudo apt-get install -y libfuse2</span></span></code></pre></div><p>or if you&rsquo;re using Ubuntu 24.04 or a newer version</p>
+
+
+
+
+
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="ln">1</span><span class="cl">sudo apt-get install -y libfuse2t64</span></span></code></pre></div></li>
 </ol>
 <h2 id="step-4-setting-up-kickstartnvim">Step 4: Setting Up Kickstart.nvim</h2>
 <ol>
 <li>
-<p>Before we get started here be sure to checkout my <a href="https://github.com/williycole/dotfiles">dotfiles</a> incase you want to see the final result or need a reference along the way. Also feel free to fork/clone them.</p>
+<p>Before we get started here,  be sure to checkout my <a href="https://github.com/williycole/dotfiles">dotfiles</a> in case you want to see the final result or need a reference along the way. Also feel free to fork/clone them.</p>
 </li>
 <li>
 <p>Back up your existing Neovim configuration:</p>
@@ -263,7 +278,7 @@
 </span></span><span class="line"><span class="ln">103</span><span class="cl"><span class="p">}</span></span></span></code></pre></div><h2 id="6-final-configuration">6. Final Configuration</h2>
 <ol>
 <li>Open Neovim: <code>nvim</code> and Run <code>:checkhealth</code> to ensure everything is set up correctly.</li>
-<li>Optional tease apart the main <code>init.lua</code> file, ie. <code>nvim\init.lua</code>.</li>
+<li>Optional: Tease apart the main <code>init.lua</code> file, ie. <code>nvim\init.lua</code>.</li>
 </ol>
 <ul>
 <li>To do this find different sections of code you would like to pull out of the main file. For example see steps and lua snippet below of the auto format configuration that comes with kickstart.</li>
@@ -358,7 +373,7 @@ This process also provides valuable Neovim editing practice:
 </ul>
 <h2 id="conclusion">Conclusion</h2>
 <p>Now you should be fully setup to Debug your Go projects with Neovim on WSL! Obviously there still a lot that could be done to further clean up this setup/debug experience, if you looked at or used my <a href="https://github.com/williycole/dotfiles">dotfiles</a> you might have even noticed plenty of todos as I will likely iterate on this in the future and make another post as I learn/cleanup my neovim setup.</p>
-<p>If you have any questions or trouble feel free to leave a comment. I really hope this was helpful to someone, and I appreciate you if you made it this far and are reading this!</p>
+<p>If you have any questions or trouble, feel free to leave a comment. I really hope this was helpful to someone, and I appreciate you if you made it this far and are reading this!</p>
 ]]></content:encoded>
     </item>
     <item>

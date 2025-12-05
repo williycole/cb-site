@@ -68,7 +68,7 @@ hideUntranslated = false
 # "herman". The former is what you see on Bear Cub's demo (an optimized
 # version of Hugo Bear Blog), while the latter has a more modern look based on
 # Herman Martinus's version of the Blogster Minimal theme for Astro.
-themeStyle = "original"
+themeStyle = "textify"
 
 # (EXPERIMENTAL) This theme is capable of dynamically generating social cards
 # for posts that don't have `images` defined in their front matter; By setting
@@ -90,5 +90,3 @@ linkedin = 'https://www.linkedin.com/in/cole-boren-4b0b3a50/'
 [params.author]
 name = "Cole Boren"           # Your name as shown in the RSS feed metadata
 email = "cborendev@gmail.com" # Added to the footer so readers can reply to posts
-
-# for comments enable this

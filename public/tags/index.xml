@@ -9,8 +9,48 @@
     <managingEditor>cborendev@gmail.com (Cole Boren)</managingEditor>
     <webMaster>cborendev@gmail.com (Cole Boren)</webMaster>
     <copyright>Cole Boren (CC BY 4.0)</copyright>
-    <lastBuildDate>Tue, 10 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuration</title>
+      <link>http://localhost:1313/tags/configuration/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
+      <guid>http://localhost:1313/tags/configuration/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Debugging</title>
+      <link>http://localhost:1313/tags/debugging/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
+      <guid>http://localhost:1313/tags/debugging/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/tags/go/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
+      <guid>http://localhost:1313/tags/go/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Neovim</title>
+      <link>http://localhost:1313/tags/neovim/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
+      <guid>http://localhost:1313/tags/neovim/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Wsl</title>
+      <link>http://localhost:1313/tags/wsl/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
+      <guid>http://localhost:1313/tags/wsl/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/tags/about/</link>
