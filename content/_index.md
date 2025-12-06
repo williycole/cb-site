@@ -3,7 +3,9 @@ title: "Home"
 menu: "main"
 weight: 1
 ---
-
+Making software since 2019.
+Expect ramblings about tech, vim, gamedev, performance, craftsmanship, and
+self employed solo polyglot dev life.
 
 ```ascii
  __ ___ ___        _         ___
@@ -14,9 +16,7 @@ __)(__ (__    /  (_/ (_/    _(_  (  (
 __) /   / /  (_  (__    (_   (_/  \/\/  /__) (_/  /  o o o
 ```
 
-Building things computers since 2019.
-Expect ramblings about tech, vim, gamedev, performance, craftsmanship, and
-self employed solo polyglot dev life.
+[LinkedIn](https://www.linkedin.com/in/cole-boren-4b0b3a50/) | [Github](https://github.com/williycole)
 
 ---
 
@@ -52,6 +52,3 @@ self employed solo polyglot dev life.
    }
 }
 ```
-
-- [LinkedIn](https://www.linkedin.com/in/cole-boren-4b0b3a50/)
-- [Github](https://github.com/williycole)
