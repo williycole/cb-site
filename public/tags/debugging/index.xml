@@ -13,9 +13,9 @@
     <atom:link href="http://localhost:1313/tags/debugging/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting up, Running, and Debugging Go Applications with Neovim on WSL</title>
-      <link>http://localhost:1313/blog/go-wsl-nvim/</link>
+      <link>http://localhost:1313/blog/9-18-24-go-wsl-nvim/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
-      <guid>http://localhost:1313/blog/go-wsl-nvim/</guid>
+      <guid>http://localhost:1313/blog/9-18-24-go-wsl-nvim/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;As a minimalist at heart, I&amp;rsquo;ve always been drawn to simplicity - that&amp;rsquo;s part of what attracted me to Go. Years of skateboarding and wrist injuries, combined with my ADHD-induced tendency to get distracted by complex IDEs, led me to explore Vim motions and Neovim. While my ultimate goal is to run ArchLinux, blast some breakcore, and hack away on Neovim like a true power user, I&amp;rsquo;m not quite there yet. As a Windows user, I wanted to find a middle ground - a way to use Neovim and Go without completely abandoning my current setup. Enter WSL (Windows Subsystem for Linux). This guide is my first attempt at setting up a development environment that combines the best of both worlds: Neovim and Go on WSL, with the added ability to debug and step through code. Fair warning: this is just the beginning. Expect more blogs as I continue to refine and expand my Neovim setup. For now, let&amp;rsquo;s dive into setting up WSL, Go, and the Debug Adapter Protocol (DAP) with Kickstart.nvim. We&amp;rsquo;ll cover everything from WSL installation to configuring Neovim for Go development and debugging.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<hr>
 <h2 id="introduction">Introduction</h2>

@@ -8,6 +8,27 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-12-08T10:28:48-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/automation/</loc>
+    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bigtech/</loc>
+    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/coding/</loc>
+    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/freelance/</loc>
+    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/solo/</loc>
+    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/12-08-25-where-are-we/</loc>
+    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/configuration/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,10 +41,7 @@
     <loc>http://localhost:1313/tags/neovim/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/go-wsl-nvim/</loc>
-    <lastmod>2024-09-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/blog/9-18-24-go-wsl-nvim/</loc>
     <lastmod>2024-09-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wsl/</loc>
@@ -32,10 +50,7 @@
     <loc>http://localhost:1313/tags/about/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/coding/</loc>
-    <lastmod>2024-09-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/origin-story/</loc>
+    <loc>http://localhost:1313/blog/9-10-24-origin-story/</loc>
     <lastmod>2024-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/origin/</loc>
