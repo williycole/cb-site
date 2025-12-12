@@ -8,6 +8,12 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-12-08T10:28:48-06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/blog/12-12-25-vibe-coding/</loc>
+    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ai/</loc>
+    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/automation/</loc>
     <lastmod>2025-12-08T10:28:48-06:00</lastmod>
   </url><url>
@@ -24,6 +30,9 @@
     <lastmod>2025-12-08T10:28:48-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vibecoding/</loc>
     <lastmod>2025-12-08T10:28:48-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/12-08-25-where-are-we/</loc>

@@ -12,19 +12,49 @@
     <lastBuildDate>Mon, 08 Dec 2025 10:28:48 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>12 12 25 Vibe Coding</title>
+      <link>http://localhost:1313/blog/12-12-25-vibe-coding/</link>
+      <pubDate>Mon, 08 Dec 2025 10:28:48 -0600</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
+      <guid>http://localhost:1313/blog/12-12-25-vibe-coding/</guid>
+      <description>&lt;p&gt;&amp;ldquo;You&amp;rsquo;re not a programmer anymore, you&amp;rsquo;re a team lead, your not writing code anymore, you&amp;rsquo;re the team lead for a bunch of coders who can do amazing things or really stupid things. They kind of do them in equal proportions, you as the team lead, its you&amp;rsquo;re job to make sure the right things get done&amp;rdquo; - Steve Yegge&lt;/p&gt;&#xA;&lt;p&gt;My take on this&amp;hellip; I can dig it, no reason to at least not try it out. Maybe we as devs still do some manual scripting in the future at times but I think Steve hit the nail on the head and I&amp;rsquo;ll explain below.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>&ldquo;You&rsquo;re not a programmer anymore, you&rsquo;re a team lead, your not writing code anymore, you&rsquo;re the team lead for a bunch of coders who can do amazing things or really stupid things. They kind of do them in equal proportions, you as the team lead, its you&rsquo;re job to make sure the right things get done&rdquo; - Steve Yegge</p>
+<p>My take on this&hellip; I can dig it, no reason to at least not try it out. Maybe we as devs still do some manual scripting in the future at times but I think Steve hit the nail on the head and I&rsquo;ll explain below.</p>
+<p>A lot of folks are skeptical of AI writing code and I get it but there&rsquo;s two things about it that are important to remember.</p>
+<ol>
+<li>Continuing with the team lead idea.</li>
+</ol>
+<p>Just like a bad team lead can wreck a person, team, product, system, process, or idea. The same can be said a team lead in the ai sense. Steer it right, review the code, small chunks of problems to solve, and you win. Just like a real team.</p>
+<ol start="2">
+<li>Folks say using AI makes you &ldquo;less smart&rdquo; or you&rsquo;ll loose your &ldquo;critical thinking skills&rdquo;, or &ldquo;you&rsquo;ll forget how to code&rdquo;.</li>
+</ol>
+<p>Well to that I say, do you still know how the ride a bike? Even after years of maybe not having been on one, and maybe even having picked up a more efficient two wheeled vehicle like a motorcycle? No, you can still ride a bike. Sure maybe you gotta warm up and ride that bike a little bit once or twice before you feel comfortable, but after a while, you&rsquo;ve got it. Arguably, if you stay active doing other things, it&rsquo;ll be easier to get back on a bike and just pick it up.</p>
+<p>The same can be said for coding. If you break down problems, think critically, do coding relating tasks, and keep learning new things in general, you&rsquo;re not gonna forget how to write code. Sure AI is not perfect and I was skeptical, but the more I think about it, the more that&rsquo;s probably not what I as a developer should be even worried about in the first place.</p>
+<p>We developers should be learning to be team leads, and learning how to use the new tool that we&rsquo;ve been given.</p>
+<p>Another analogy to get the idea across&hellip;Think about it like this, nobody knows how to use a chainsaw the first time they start using one, it can really mess things up and it can hurt you, but it can also get a lot of work done when you know how to wield it properly. Quickly you can become efficient at clearing out whatever, you just gotta use is properly and stay safe. So where does that leave us?</p>
+<p>Right here</p>
+<ul>
+<li>Using AI will not make your a bad programmer, it might make you a better leader.</li>
+<li>Using it is not the worst sin you could commit as a programmer.</li>
+<li>Use tools that help you ship value and don&rsquo;t be scare of AI.</li>
+</ul>
+<p>Rant done, thanks for reading!</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Where Are We</title>
       <link>http://localhost:1313/blog/12-08-25-where-are-we/</link>
       <pubDate>Mon, 08 Dec 2025 10:28:48 -0600</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
       <guid>http://localhost:1313/blog/12-08-25-where-are-we/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Well, it&amp;rsquo;s been a while since I last made a post. A lot has happened in tech and in my life. I got a good job on a good team working with &lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt;. I went to Japan for a little over two weeks, something I&amp;rsquo;ve wanted to do since I was eight. I read a lot of books, started a side project I&amp;rsquo;ve had in mind for years, got heavily into &lt;a href=&#34;https://www.playbalatro.com/&#34;&gt;Balatro&lt;/a&gt; which re-inspired me to make games again (something I&amp;rsquo;ve only done &lt;a href=&#34;https://williycole.github.io/07-challenge-rock-paper-scissors/&#34;&gt;once before&lt;/a&gt; on a tiny scale). I got into sandbag lifting, started skateboarding more, and I&amp;rsquo;m not far off from getting my Brazilian Jiu-Jitsu purple belt. Cool year overall, but not the whole story.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Well, it&amp;rsquo;s been a while since I last made a post. A lot has happened in tech and in my life. I got a good job on a good team working with &lt;a href=&#34;https://go.dev/&#34;&gt;Go&lt;/a&gt;. I went to Japan for a little over two weeks, something I&amp;rsquo;ve wanted to do since I was eight. I read a lot of books, started a side project I&amp;rsquo;ve had in mind for years, got heavily into &lt;a href=&#34;https://www.playbalatro.com/&#34;&gt;Balatro&lt;/a&gt; which re-inspired me to make games again (something I&amp;rsquo;ve only done &lt;a href=&#34;https://williycole.github.io/07-challenge-rock-paper-scissors/&#34;&gt;once before&lt;/a&gt; on a tiny scale). I got into sandbag lifting, started skateboarding more, and I&amp;rsquo;m not far off from getting my Brazilian Jiu-Jitsu purple belt. Cool year overall, but not the whole story.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<hr>
+<h2 id="introduction">Introduction</h2>
 <p>Well, it&rsquo;s been a while since I last made a post. A lot has happened in tech and in my life. I got a good job on a good team working with <a href="https://go.dev/">Go</a>. I went to Japan for a little over two weeks, something I&rsquo;ve wanted to do since I was eight. I read a lot of books, started a side project I&rsquo;ve had in mind for years, got heavily into <a href="https://www.playbalatro.com/">Balatro</a> which re-inspired me to make games again (something I&rsquo;ve only done <a href="https://williycole.github.io/07-challenge-rock-paper-scissors/">once before</a> on a tiny scale). I got into sandbag lifting, started skateboarding more, and I&rsquo;m not far off from getting my Brazilian Jiu-Jitsu purple belt. Cool year overall, but not the whole story.</p>
 <p>Mid-summer my wife was laid off shortly after being told she wouldn’t be. Not fun, but she handled it like a champ and started her own <a href="https://popixelstudio.com/">web design business</a>. Still unfair. Fast-forward a few months and I’m writing this about seven weeks after getting laid off myself. Also blindsided. Also not cool.</p>
 <h2 id="whats-the-point">What&rsquo;s the point?</h2>
 <p>I’m writing this to reflect, vent, and plant a flag I can look back on a year from now. I’ve been getting paid to make things on computers since 2018. Started with maps and automation, then pivoted into “coding” (I thought it meant frontend/websites), but I’ve basically spent the last six years in backend-heavy roles.</p>
-<p>I’ve worked at places ranging from 500k-employee red-tape nightmares to 100-person startups. Seven teams. Seven managers. I’ve led planning, mentored junior devs, partnered with system architects to lay groundwork for big ideas I pushed forward, got forward-deployed into the feature trenches, worked the firehose, worn the ops hat, and managed Docker/Kubernetes configs for microservices I ported out of unscalable messes. I’ve seen a lot: good ideas, bad ideas, failures, wins, and everything in between.</p>
+<p>I’ve worked at places ranging from 500k-employee red-tape corporations to 100-person startups. Seven teams. Seven managers. I’ve led planning, mentored junior devs, partnered with system architects to lay groundwork for big ideas I pushed forward, got forward-deployed into the feature trenches, worked the firehose, worn the ops hat, and managed Docker/Kubernetes configs for microservices I ported out of unscalable messes. I’ve seen a lot, good ideas, bad ideas, failures, wins, and everything in between.</p>
 <p>And yet here I am. No W-2. A little burned out in the age of AI, easily one of the weirdest moments in tech in the last twenty years. It’s a “damned if you use it, damned if you don’t” kind of time. Old heads (not all of them) get skeptical if anyone under them touches it. There’s no agreed-upon rulebook for how to use it, while CEOs see dollar signs. It’s a strange, toxic mix, and I don’t see it clearing up soon.</p>
-<p>After seeing and doing so much, it’s hard not to question whether the grind is worth it. You push uphill, get tossed aside anyway, and are expected to “dance, monkey, dance” with almost no real support. Outsourcing, underpaying, belittling, blaming, poor communication, constant churn, ego, tech-bro attitudes, if I described your pilot’s software with those words, you wouldn’t get on the plane. Yet somehow this is normal for a lot of dev teams.</p>
+<p>After seeing and doing so much, it’s hard not to question whether the grind is worth it. You push uphill, get tossed aside anyway, and are expected to “dance, monkey, dance” with almost no real support. Outsourcing, underpaying, belittling, blaming, poor communication, constant churn, ego, tech-bro attitudes, if I described your pilot’s software with those words, you wouldn’t get on the plane. Yet somehow this is norm for a lot of dev teams.</p>
 <p>Out of all the places I’ve worked, I can count maybe a couple handfuls of people who genuinely cared about doing things right, helping others, and pushing teams and companies to win. Not just good people, amazing ones. You know who you are.</p>
 <p>So what’s the point? A paycheck? Comfort? A W-2? I don’t know. We all want to pay our bills and do good work, but given everything, it’s hard not to think there’s a better way. I’m not perfect, but I care about people, I care about the craft, and I want what I build to be right and fast. I’m not willing to be a jerk to save myself, and I never wanted to be some mythical 10× engineer. I just like having a craft, tinkering, polishing, and doing good work.</p>
 <h2 id="where-are-we-at-and-where-are-we-going">Where are we at and where are we going?</h2>
@@ -33,6 +63,7 @@
 <p>AI is only going to level the field more. Devs should think about that and what they actually want to do with their skills. Coding has always been a means to an end. Build stuff, tinker, make that game, work the gigs, but don’t get comfortable. Your W-2 isn’t safe. You’re valued until you’re not. The safer bet is getting comfortable being uncomfortable, and finding some joy in it.</p>
 <p>That’s it. Rant done.</p>
 <p>More writing soon about solo web dev and solo game dev.</p>
+<p>Thanks for reading!🤝🫶</p>
 ]]></content:encoded>
     </item>
     <item>
