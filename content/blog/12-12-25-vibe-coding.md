@@ -12,13 +12,13 @@ tags = [
 
 > "You're not a programmer anymore, you're a team lead, your not writing code anymore, you're the team lead for a bunch of coders who can do amazing things or really stupid things. They kind of do them in equal proportions, you as the team lead, its you're job to make sure the right things get done" - Steve Yegge
 
-My take on this... I can dig it, no reason to at least not try it out.
+My take on this... I can dig it, no reason to not at least try it out.
 
 ### 1. Continuing with the team lead idea
 
 Just like a bad team lead can wreck a person, team, product, system, process, or idea. The same can be said a team lead in the ai sense. Steer it right, review the code, small chunks of problems to solve, and you win. Just like a real team.
 
-### AI Will Make You Forget How to Code (And Why It's BS)
+### 2. AI Will Make You Forget How to Code (no it won't 😑)
 
 First, let me say that mindlessly prompting without any thought will dull your skills, but that's not what I'm implying here or what the quote suggests, for that matter. Let me explain with an analogy of my own. Do you still know how the ride a bike? Even after years of maybe not having been on one, and maybe even having picked up a more efficient two wheeled vehicle like a motorcycle? No, you can still ride a bike. Sure maybe you gotta warm up and ride that bike a little bit once or twice before you feel comfortable, but after a while, you've got it. Arguably, if you stay active doing other things, it'll be easier to get back on a bike and just pick it up.
 

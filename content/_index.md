@@ -4,8 +4,7 @@ menu: "main"
 weight: 1
 ---
 Making software since 2019.
-Expect ramblings about tech, vim, gamedev, performance, craftsmanship, and
-self employed solo polyglot dev life.
+Expect ramblings about tech, vim, gamedev, performance, craftsmanship, ai, and solo polyglot dev life.
 
 ```ascii
  __ ___ ___        _         ___
