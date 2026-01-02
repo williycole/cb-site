@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life on CB</title>
+    <link>http://localhost:1313/tags/life/</link>
+    <description>Recent content in Life on CB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>cborendev@gmail.com (Cole Boren)</managingEditor>
+    <webMaster>cborendev@gmail.com (Cole Boren)</webMaster>
+    <copyright>Cole Boren (CC BY 4.0)</copyright>
+    <lastBuildDate>Fri, 02 Jan 2026 08:51:18 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 Goals</title>
+      <link>http://localhost:1313/blog/1-2-26-2026-goals/</link>
+      <pubDate>Fri, 02 Jan 2026 08:51:18 -0600</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
+      <guid>http://localhost:1313/blog/1-2-26-2026-goals/</guid>
+      <description>&lt;h1 id=&#34;tldr&#34;&gt;TLDR&lt;/h1&gt;&#xA;&lt;p&gt;Last year, really the last two years have been absolutely wild. A lot of good and crummy life things have happened, I learned a ton about myself, and I&amp;rsquo;m three months into a layoff where I&amp;rsquo;ve now pivoted into consulting work and working on hot rods a bit while I hammer out my next steps and move further into consulting. I have a lot of goals for the year. Something like read a lot of books, keep blogging and update my blog site, make some video games, get good at lower level programming, build and release my own product (and blog about it), a few fitness goals, get my BJJ purple belt, implement more minimalist / small living habits, and get multiple income streams, probably a few more too.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="tldr">TLDR</h1>
+<p>Last year, really the last two years have been absolutely wild. A lot of good and crummy life things have happened, I learned a ton about myself, and I&rsquo;m three months into a layoff where I&rsquo;ve now pivoted into consulting work and working on hot rods a bit while I hammer out my next steps and move further into consulting. I have a lot of goals for the year. Something like read a lot of books, keep blogging and update my blog site, make some video games, get good at lower level programming, build and release my own product (and blog about it), a few fitness goals, get my BJJ purple belt, implement more minimalist / small living habits, and get multiple income streams, probably a few more too.</p>
+<h2 id="the-categories">The Categories</h2>
+<ol>
+<li>
+<p><a href="/blog/1-2-26-2026-goals/#operator">Operator</a> - How I choose to operate or conduct myself and my time.</p>
+</li>
+<li>
+<p><a href="/blog/1-2-26-2026-goals/#books">Books</a> - Just a list of all the books I want to read with a sentence or two on why. I&rsquo;ll keep this short but this list will likely grow and I&rsquo;ll add to it over the year if so.</p>
+</li>
+<li>
+<p><a href="/blog/1-2-26-2026-goals/#hobbies">Hobbies</a> - I have a few of them, and I have goals for just about every one of them, I will break those down and list them here.</p>
+</li>
+<li>
+<p><a href="/blog/1-2-26-2026-goals/#programming">Programming</a> - Lot of thoughts here and things I wanna focus on, here I will list those out and scope them down to keep my ADHD self accountable.</p>
+</li>
+<li>
+<p><a href="/blog/1-2-26-2026-goals/#everything-else">Everything else</a> - Anything the other categories missed goes here.</p>
+</li>
+</ol>
+<h2 id="operator">Operator</h2>
+<p>This one is a little deep but to me it&rsquo;s the most important thing I could concern myself with this year and any other year so I&rsquo;m dropping it here at the top.</p>
+<p>The theme for this year is intentional/simpler living, slow productivity, leaning into joy and sharing it with others.</p>
+<p>Let me start by saying I can tend to be a bit of a perfectionist and very results driven. Doing things well or right really matters to me at my core. There&rsquo;s a personality concept for this called a reformer probably akin to something like described <a href="https://www.enneagraminstitute.com/type-1/">here</a> although I hold to that loosely. That said, I can be a bit wound up with horse blinders on at times and miss out on things. Things like finding joy in the small moments, or even sharing joy with others. I want to lean into this area of my life that I tend to naturally overlook.</p>
+<p>For me addressing that is simple but not easy. It looks kind of like intentional/simpler living, slow productivity, leaning into joy (not results or right/wrong) and sharing it with others. I read a book recently that had a short story about a man named <strong>Dominique Voillaume</strong>. This story really hit home for me and I think is a really good picture for how I want to operate. Below is that story which I pulled from <a href="https://www.enneagraminstitute.com/type-1/reforming-the-mind-and-body-to-be-a-reformer/">here</a></p>
+<blockquote>
+<p>Death is man&rsquo;s best friend when it is the vestibule to paradise.
+Dominique Voillaume was diagnosed at 54 with inoperable cancer. This sage who led a small band of youthful monks was no seeker of honor or personal aggrandizement.
+On learning of his death sentence he resigned from his small spiritual community and took a factory job in Paris as a night-watchman. This then enabled him to live out his final days blessing the lost, the least, the last and the lonely.
+He deliberately rented very sparse accommodation across from a park where he would serve those he loved and whom he lived for. Daily he shared a dilapidated bench and simply affirmed and never condemned these ne&rsquo;er-do-wells.
+In serene and selfless devotion he lived his final days with ignominy, unnoticed by the masses but loved by the losers.
+One morning he failed to appear at his customary park bench.
+Below are recorded his final communications within this world, to out of this world. They were entered in his personal devotional diary just hours before he died.
+&ldquo;All that is not the love of God has no meaning for me. I can truthfully say that I have no interest in anything but the love of God which is in Christ Jesus. If God wants it to, my life will be useful through my word and my witness. If He wants it to, my life will bear fruit through my prayers and sacrifices. But the usefulness of my life is His concern, not mine. It would be indecent of me to worry about that.&rdquo; *
+&hellip; and then He died alone, priorities so humbly in place at still a tender age. His heart was in heaven before his soul. He had already sent his heart to heaven.
+He was later found in his near empty hovel located in a still obscure Parisian slum.</p>
+</blockquote>
+<p>So I guess to TLDR again this year I want to</p>
+<ul>
+<li>be more like Dominique Voillaume*</li>
+</ul>
+<p>I could rant here probably all day but I really want to keep things simple and loosen the reins a bit this year so that&rsquo;s all that is going here.</p>
+<h2 id="books">Books</h2>
+<p>The following are books I want to read, reread, or finish reading. Listed in no particular order.</p>
+<ul>
+<li>Slow Productivity by Cal Newport</li>
+<li>Learning Systems Thinking by Diana Montalion</li>
+<li>How to Pray A Simple Guide for Normal People by Pete Greig</li>
+<li>LoTR The Two Towers by J.R.R. Tolkien</li>
+<li>30 Days to Understanding the Bible - Max Anders</li>
+<li>Vibe Coding by Gene Kim &amp; Steve Yegge</li>
+<li>Essentialism by Greg McKeown</li>
+<li>On Writing Well by William Zinsser</li>
+<li>Driven to Distraction by Edward M. Hallowell, M.D. and John J. Ratey, M.D.</li>
+<li>Book of Five Rings by Miyamoto Musashi</li>
+<li>How to Win Friends and Influence Others by Dale Carnegie</li>
+<li>A Wizard of Earthsea by Le Guin</li>
+<li>LoTR The Return of The King by J.R.R. Tolkien</li>
+<li>My Utmost for His Highest by Oswald Chambers</li>
+</ul>
+<p>There&rsquo;s a few more that I haven&rsquo;t listed because I don&rsquo;t have them yet but if I read anything not listed here I&rsquo;ll include it.</p>
+<h2 id="hobbies">Hobbies</h2>
+<p>I have too many of them 😅. This year I have a few goals for a few of them and that&rsquo;s really all I want to focus on with them this year.</p>
+<ul>
+<li>Get my BJJ purple belt</li>
+<li>Compete in another BJJ competition</li>
+<li>Finish my warhammer 40k army and play at least 30 games</li>
+<li>Drill BJJ with my wife more so we can better develop our own games</li>
+<li>Shoulder a 225 sandbag from the ground</li>
+<li>Get shredded after a brief bulk</li>
+<li>Get better and stronger at unilateral lifting and lifting in odd positions</li>
+<li>Build a work bench of a back</li>
+<li>Keep skateboarding about one time a week</li>
+<li>Pick playing the banjo back up</li>
+<li>Optimize my neovim setup more for focus (yes neovim is a hobby and I consider it programming adjacent)</li>
+</ul>
+<h2 id="programming">Programming</h2>
+<p>Ooooof where do I start with this one. Programming has been spiiiiiicy for me lately. I&rsquo;ve been doing the webdev thing for like 4 or maybe 5 years now and I&rsquo;ve developed a lot of opinions. To be honest the main one I&rsquo;ve developed is that web dev kinda sucks in most jobs. Most of the time you have a task master constantly giving you tickets they want done yesterday but say no it&rsquo;s ok take your time, they usually don&rsquo;t care about real quality and just want it to work, or work how they think it should, the web/W3 is kinda crazzzzzy bad, like look at what games do on your pc in realtime over a network while you play cod with your friend on the other side of the world. Now go read anything about how bad &ldquo;the internet&rdquo; actually is&hellip; webdev is building in a constantly changing environment where you&rsquo;re damned if you do and damned if you don&rsquo;t do x, y or z, all on top of a house of cards. Now that that rant is out of the way I&rsquo;ll say I have worked in places where doing webdev was chill and I probably shouldn&rsquo;t have ever left but hindsight is 20/20 and I didn&rsquo;t know back then what I know now.</p>
+<p>But I think I want to figure out another way to program, other things to work on or with. But yea I think I&rsquo;m done. Done doing things in the same capacity that I have been for at least 3 years.</p>
+<p>I&rsquo;m interested in performance optimization, lower level programming, and making games. So this year outside of a potential 9-5/consulting gigs, I&rsquo;m just gonna focus on all the tinkering and making that gets me excited and not learn jack that the masses are talking about on LinkedIn or tech Twitter, at least not in the capacity that I&rsquo;m gonna get left behind and be unemployable if I don&rsquo;t do, learn, or study xyz. I also have had an idea for a &ldquo;staying focused and intentional&rdquo; based product that I&rsquo;ve been sleeping on for like 3 years that I want to get out the door.</p>
+<p>That said here&rsquo;s what I&rsquo;m actually focusing on this year:</p>
+<p><strong>Q1 (Jan-Mar)</strong></p>
+<ul>
+<li>Finish and ship my focus app</li>
+<li>Start learning C fundamentals via Handmade Hero</li>
+</ul>
+<p><strong>Q2 (Apr-Jun)</strong></p>
+<ul>
+<li>Continue Handmade Hero (slow burn, daily)</li>
+<li>Launch the focus app and get it to maintenance mode</li>
+<li>Build my first game in C + Raylib (simple: Pong/Breakout level)</li>
+</ul>
+<p><strong>Q3 (Jul-Sep)</strong></p>
+<ul>
+<li>Finish and ship that first C game on itch.io</li>
+<li>Learn Odin fundamentals</li>
+<li>Start second game in Odin (with actual price point)</li>
+</ul>
+<p><strong>Q4 (Oct-Dec)</strong></p>
+<ul>
+<li>Finish and ship Odin game</li>
+<li>Continue/finish Handmade Hero</li>
+<li>Reassess what I actually want for 2027 (game dev 100%? embedded? tools?)</li>
+</ul>
+<p><strong>Throughout the year:</strong></p>
+<ul>
+<li>Handmade Hero daily (30min-1hr) = 200+ episodes by end of year</li>
+<li>Build in public in some fashion, YT, X, or LinkedIn</li>
+<li>Boot.dev C course + data structures if needed (1hr/week max)</li>
+<li>Optimize my neovim setup for better focus</li>
+<li>Work without an LSP or LLM auto complete half the time and make my own snippets library for deliberate scaffolding</li>
+<li>Learn to make cool sprites for games</li>
+<li>Update my Blog/Site</li>
+</ul>
+<p><strong>Goal:</strong> Ship 1 product + 2 games in 2026. One focus per quarter. Reassess direction in Q4 based on what actually excited me.</p>
+<h2 id="everything-else">Everything Else</h2>
+<p>No order just random things I hope to do or work on this year, some of them are more of a &ldquo;nice to have&rdquo; or &ldquo;if time allows&rdquo;.</p>
+<ul>
+<li>Take another trip to Japan</li>
+<li>Complete all lingering interior house projects</li>
+<li>Pour a small concrete skateboard ramp at my house</li>
+<li>Get some passive / semi passive income streams going</li>
+<li>Have more than one source of income for myself even if none passive</li>
+<li>Say no to more things and keep things simple, uncluttered and unbusy as often as possible.</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

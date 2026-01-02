@@ -3,13 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/12-12-25-vibe-coding/</loc>
-    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
+    <loc>http://localhost:1313/blog/1-2-26-2026-goals/</loc>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bjj/</loc>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/books/</loc>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/coding/</loc>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-dev/</loc>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hobbies/</loc>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/life/</loc>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/small-living/</loc>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/training/</loc>
+    <lastmod>2026-01-02T08:51:18-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2025-12-08T10:28:48-06:00</lastmod>
@@ -20,16 +47,13 @@
     <loc>http://localhost:1313/tags/bigtech/</loc>
     <lastmod>2025-12-08T10:28:48-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/coding/</loc>
-    <lastmod>2025-12-08T10:28:48-06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/freelance/</loc>
     <lastmod>2025-12-08T10:28:48-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/solo/</loc>
     <lastmod>2025-12-08T10:28:48-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/blog/12-12-25-vibe-coding/</loc>
     <lastmod>2025-12-08T10:28:48-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/vibecoding/</loc>

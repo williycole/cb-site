@@ -12,32 +12,29 @@
     <lastBuildDate>Mon, 08 Dec 2025 10:28:48 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/vibecoding/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>12 12 25 Vibe Coding</title>
+      <title>Vibe Coding</title>
       <link>http://localhost:1313/blog/12-12-25-vibe-coding/</link>
       <pubDate>Mon, 08 Dec 2025 10:28:48 -0600</pubDate><author>cborendev@gmail.com (Cole Boren)</author>
       <guid>http://localhost:1313/blog/12-12-25-vibe-coding/</guid>
-      <description>&lt;p&gt;&amp;ldquo;You&amp;rsquo;re not a programmer anymore, you&amp;rsquo;re a team lead, your not writing code anymore, you&amp;rsquo;re the team lead for a bunch of coders who can do amazing things or really stupid things. They kind of do them in equal proportions, you as the team lead, its you&amp;rsquo;re job to make sure the right things get done&amp;rdquo; - Steve Yegge&lt;/p&gt;&#xA;&lt;p&gt;My take on this&amp;hellip; I can dig it, no reason to at least not try it out. Maybe we as devs still do some manual scripting in the future at times but I think Steve hit the nail on the head and I&amp;rsquo;ll explain below.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>&ldquo;You&rsquo;re not a programmer anymore, you&rsquo;re a team lead, your not writing code anymore, you&rsquo;re the team lead for a bunch of coders who can do amazing things or really stupid things. They kind of do them in equal proportions, you as the team lead, its you&rsquo;re job to make sure the right things get done&rdquo; - Steve Yegge</p>
-<p>My take on this&hellip; I can dig it, no reason to at least not try it out. Maybe we as devs still do some manual scripting in the future at times but I think Steve hit the nail on the head and I&rsquo;ll explain below.</p>
-<p>A lot of folks are skeptical of AI writing code and I get it but there&rsquo;s two things about it that are important to remember.</p>
-<ol>
-<li>Continuing with the team lead idea.</li>
-</ol>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;You&amp;rsquo;re not a programmer anymore, you&amp;rsquo;re a team lead, your not writing code anymore, you&amp;rsquo;re the team lead for a bunch of coders who can do amazing things or really stupid things. They kind of do them in equal proportions, you as the team lead, its you&amp;rsquo;re job to make sure the right things get done&amp;rdquo; - Steve Yegge&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;My take on this&amp;hellip; I can dig it, no reason to not at least try it out.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<blockquote>
+<p>&ldquo;You&rsquo;re not a programmer anymore, you&rsquo;re a team lead, your not writing code anymore, you&rsquo;re the team lead for a bunch of coders who can do amazing things or really stupid things. They kind of do them in equal proportions, you as the team lead, its you&rsquo;re job to make sure the right things get done&rdquo; - Steve Yegge</p>
+</blockquote>
+<p>My take on this&hellip; I can dig it, no reason to not at least try it out.</p>
+<h3 id="1-continuing-with-the-team-lead-idea">1. Continuing with the team lead idea</h3>
 <p>Just like a bad team lead can wreck a person, team, product, system, process, or idea. The same can be said a team lead in the ai sense. Steer it right, review the code, small chunks of problems to solve, and you win. Just like a real team.</p>
-<ol start="2">
-<li>Folks say using AI makes you &ldquo;less smart&rdquo; or you&rsquo;ll loose your &ldquo;critical thinking skills&rdquo;, or &ldquo;you&rsquo;ll forget how to code&rdquo;.</li>
-</ol>
-<p>Well to that I say, do you still know how the ride a bike? Even after years of maybe not having been on one, and maybe even having picked up a more efficient two wheeled vehicle like a motorcycle? No, you can still ride a bike. Sure maybe you gotta warm up and ride that bike a little bit once or twice before you feel comfortable, but after a while, you&rsquo;ve got it. Arguably, if you stay active doing other things, it&rsquo;ll be easier to get back on a bike and just pick it up.</p>
-<p>The same can be said for coding. If you break down problems, think critically, do coding relating tasks, and keep learning new things in general, you&rsquo;re not gonna forget how to write code. Sure AI is not perfect and I was skeptical, but the more I think about it, the more that&rsquo;s probably not what I as a developer should be even worried about in the first place.</p>
-<p>We developers should be learning to be team leads, and learning how to use the new tool that we&rsquo;ve been given.</p>
-<p>Another analogy to get the idea across&hellip;Think about it like this, nobody knows how to use a chainsaw the first time they start using one, it can really mess things up and it can hurt you, but it can also get a lot of work done when you know how to wield it properly. Quickly you can become efficient at clearing out whatever, you just gotta use is properly and stay safe. So where does that leave us?</p>
-<p>Right here</p>
+<h3 id="2-ai-will-make-you-forget-how-to-code-no-it-wont-">2. AI Will Make You Forget How to Code (no it won&rsquo;t 😑)</h3>
+<p>First, let me say that mindlessly prompting without any thought will dull your skills, but that&rsquo;s not what I&rsquo;m implying here or what the quote suggests, for that matter. Let me explain with an analogy of my own. Do you still know how the ride a bike? Even after years of maybe not having been on one, and maybe even having picked up a more efficient two wheeled vehicle like a motorcycle? No, you can still ride a bike. Sure maybe you gotta warm up and ride that bike a little bit once or twice before you feel comfortable, but after a while, you&rsquo;ve got it. Arguably, if you stay active doing other things, it&rsquo;ll be easier to get back on a bike and just pick it up.</p>
+<p>The same can be said for coding. If you break down problems, think critically, do coding relating tasks, and keep learning new things in general, you&rsquo;re not gonna forget how to write code. Let me tell you a secret&hellip; Team leads that have to read/review more code than they write don&rsquo;t forget how to code.</p>
+<p>Sure AI is not perfect and I was skeptical, but the more I think about it, the more that&rsquo;s probably not what I as a developer should be even worried about in the first place.We developers should be learning to be team leads, and learning how to use the new tool that we&rsquo;ve been given.</p>
+<p>Another analogy to get the idea across&hellip;Think about it like this, nobody knows how to use a chainsaw the first time they start using one, it can really mess things up and it can hurt you, but it can also get a lot of work done when you know how to wield it properly. Quickly you can become efficient at clearing out whatever, you just gotta use is properly and stay safe.</p>
+<h3 id="so-where-does-that-leave-us">&hellip;So where does that leave us?</h3>
 <ul>
 <li>Using AI will not make your a bad programmer, it might make you a better leader.</li>
 <li>Using it is not the worst sin you could commit as a programmer.</li>
-<li>Use tools that help you ship value and don&rsquo;t be scare of AI.</li>
+<li>Use tools that help you ship value and don&rsquo;t be scared of using AI.</li>
 </ul>
-<p>Rant done, thanks for reading!</p>
+<p>Rant done, thanks for reading! 🫶🤘</p>
 ]]></content:encoded>
     </item>
   </channel>
